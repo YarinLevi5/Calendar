@@ -1,0 +1,10 @@
+.calendar {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
